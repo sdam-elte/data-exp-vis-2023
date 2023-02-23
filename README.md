@@ -22,7 +22,8 @@ Requisites: 	programming in either **python**, **R**<br>
 Each occasion starts with approximately a twenty minute of introduction into the current topic. After that everyone can work on the assignments and the consultants will be available to help with the any related problems and questions. For those who lack experience in either programming or data analisys it is highly recommended to attenda the lecture and practice sessions. There are many tricks and tips that can be learned much quicker from personal discussions.
 
 ### The schedule of the course 
-1,  27.02.2023. **[Introduction to K8plex Edu](https://k8plex-edu.elte.hu/hub)**, **[Jupyter Notebooks](https://jupyter.org/)**, **Requirements for the course**, **[Timeseries analysis](Lectures/L-Timeseries/02-Timeseries.pdf)** and **[USGS water discharge statistics](Assignments/A-Timeseries)**<br><br>
+1,  27.02.2023. **[Introduction to K8plex Edu](https://k8plex-edu.elte.hu/hub)**, **[Jupyter Notebooks](https://jupyter.org/)**, **Requirements for the course**,
+                **[Timeseries analysis](Lectures/L-Timeseries/02-Timeseries.pdf)** and **[USGS water discharge statistics](Assignments/A-Timeseries)**<br><br>
 2,  06.03.2023. **[Maps, shapes, coordinates](Lectures/L-Shapes-Maps-Coordinates)** <br>
 3,  13.03.2023. **[Interactive Visualization](Lectures/L-Interactive_Visualization)** <br>
 4,  20.03.2023. **[REST services](Lectures/L-HTTP-REST-API)**  <br>
