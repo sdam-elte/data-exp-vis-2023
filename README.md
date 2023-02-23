@@ -1,5 +1,5 @@
 # Course material for Data Exploration and Visualisation 
-### 2022 spring semester
+### 2023 spring semester
 
 This course is part of the [Scientific Data Analytics and Modelling Programme](https://datascience.elte.hu/en/Default.aspx#top).
 The aim of the course is that students gain practical skills in **accessing large databases/datasets**, handling **data stored in different formats**, **exploring/cleaning these data** and **presenting** the gathered information. During the course students will come across databases used in various scientific fields. Completing of the several projects allows students to gain useful experiences that will give a firm foundation for later courses on theoretical datamining and advanced computing laboratories.
@@ -28,8 +28,8 @@ Each occasion starts with approximately a twenty minute of introduction into the
 4,  20.03.2023. **[REST services](Lectures/L-HTTP-REST-API)**  <br>
 5,  27.03.2023. **[SQL queries](Lectures/L-SQL)** <br>
 6,  03.04.2023. **[Datacleaning, and filtering](Lectures/L-Datacleaning-filtering)**<br>
-7,  17.04.2023. **[Network exploration](Lectures/L-Networks)** - This lecture will be given by [**Dániel Ábel**](http://maven7.com/hu/daniel-abel/), who is a developer at Maven7. <br>
-8,  24.04.2023. **[Image exploration](Lectures/L-Image_Exploration)** - This lecture will be given by József Stéger. <br>
+7,  17.04.2023. **[Network exploration](Lectures/L-Networks)** - An hour long lecture will be given by [**Dániel Ábel**](http://maven7.com/hu/daniel-abel/), who is a developer at Maven7. <br>
+8,  24.04.2023. **[Image exploration](Lectures/L-Image_Exploration)** <br>
 9,  08.05.2023. **[Natural Language Processing on tweets](Lectures/L-NLP)** <br>
 10, 15.05.2023. **[Working with large datasets](Lectures/L-LargeData)** <br>
 11, 22.05.2023. **Consultation** <br>
