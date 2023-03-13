@@ -1,3 +1,4 @@
 Using the curl command in bash
 
-curl "https://nwis.waterdata.usgs.gov/nwis/uv/?parameterCd=00060,00065&format=rdb&site_no=01589440&period=&begin_date=20100101&end_date=20191231&siteStatus=all" > 01585500-20100101-20191231.cs
+curl "https://nwis.waterdata.usgs.gov/nwis/uv/?cb_00060=on&cb_00065=on&format=rdb&site_no=01646500&period=&begin_date=20191101&end_date=20191231&siteStatus=all" > "/.csv"
+"https://nwis.waterdata.usgs.gov/nwis/uv/?&format=rdb&site_no=&period=&begin_date=20191101&end_date=20191231&siteStatus=all" > "/.csv"
