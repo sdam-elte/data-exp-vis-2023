@@ -22,20 +22,19 @@ Requisites: 	programming in either **python**, **R**<br>
 Each occasion starts with approximately a twenty minute of introduction into the current topic. After that everyone can work on the assignments and the consultants will be available to help with the any related problems and questions. For those who lack experience in either programming or data analisys it is highly recommended to attenda the lecture and practice sessions. There are many tricks and tips that can be learned much quicker from personal discussions.
 
 ### The schedule of the course 
-1,  28.02.2023. **[Introduction to K8plex Edu](https://k8plex-edu.elte.hu/hub)**, **[Jupyter Notebooks](https://jupyter.org/)**, **Requirements for the course**,
+1,  07.02.2023. **[Introduction to K8plex Edu](https://k8plex-edu.elte.hu/hub)**, **[Jupyter Notebooks](https://jupyter.org/)**, **Requirements for the course**,
                 **[Timeseries analysis](Lectures/L-Timeseries/02-Timeseries.pdf)** and **[USGS water discharge statistics](Assignments/A-Timeseries)**<br>
-2,  07.03.2023. **[Maps, shapes, coordinates](Lectures/L-Shapes-Maps-Coordinates)** <br>
-3,  14.03.2023. **[Interactive Visualization](Lectures/L-Interactive_Visualization)** <br>
-4,  21.03.2023. **[REST services](Lectures/L-HTTP-REST-API)**  <br>
-5,  28.03.2023. **[SQL queries](Lectures/L-SQL)** <br>
-6,  04.04.2023. **[Datacleaning, and filtering](Lectures/L-Datacleaning-filtering)**<br>
-7,  11.04.2023. **[Network exploration](Lectures/L-Networks)** - An hour long lecture will be given by [**Dániel Ábel**](http://maven7.com/hu/daniel-abel/), who is a developer at Maven7. <br>
-8,  18.04.2023. **[Image exploration](Lectures/L-Image_Exploration)** <br>
-9,  25.04.2023. **[Natural Language Processing on tweets](Lectures/L-NLP)** <br>
-10, 02.05.2023. **[Working with large datasets](Lectures/L-LargeData)** <br>
-11, 09.05.2023. **Consultation** <br>
-12, 16.05.2023. **Consultation** <br>
-13, 23.05.2023. **Consultation** <br>
+2,  14.03.2023. **[Maps, shapes, coordinates](Lectures/L-Shapes-Maps-Coordinates)** <br>
+3,  21.03.2023. **[Interactive Visualization](Lectures/L-Interactive_Visualization)** <br>
+4,  28.03.2023. **[REST services](Lectures/L-HTTP-REST-API)**  <br>
+5,  04.04.2023. **[SQL queries](Lectures/L-SQL)** <br>
+6,  11.04.2023. **[Datacleaning, and filtering](Lectures/L-Datacleaning-filtering)**<br>
+7,  18.04.2023. **[Network exploration](Lectures/L-Networks)** - An hour long lecture will be given by [**Dániel Ábel**](http://maven7.com/hu/daniel-abel/), who is a developer at Maven7. <br>
+8,  25.04.2023. **[Image exploration](Lectures/L-Image_Exploration)** <br>
+9,  02.05.2023. **[Natural Language Processing on tweets](Lectures/L-NLP)** <br>
+10, 09.05.2023. **[Working with large datasets](Lectures/L-LargeData)** <br>
+11, 16.05.2023. **Consultation** <br>
+12, 23.05.2023. **Consultation** <br>
  
 <!-- **[NoSQL - Elasticsearch and Kibana, GraphQL](Lectures/L-NoSQL-ES)** -->
 
