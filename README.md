@@ -59,7 +59,10 @@ Each occasion starts with approximately a twenty minute of introduction into the
 
 1. **[Following John Snow](Assignments/A-Shapes-Maps-Coordinates)**- HTML - Ágnes Becsei
 2. **[USGS water discharge statistics](Assignments/A-Timeseries)** - HTML - Dávid Visontai
-3. **[SQL queries on an NBA database](Assignments/A-SQL-Basketball)** SQLqueries on coveo database- HTML - Dávid Visontai
+3.
+   * **a)** **[SQL queries on an NBA database](Assignments/A-SQL-A-Basketball)** NBA 2008-2009 season - HTML - Dávid Visontai
+   * **b)** **[SQL queries to a Biological database](Assignments/A-SQL-B-Coveo)** Analysis of SARS-COV-2 mutation database - HTML - Dávid Visontai
+  
 4. **[Interactive Visualization](Assignments/A-InteractiveVisualizations)** ATLO.info reproduction - HTML or Hosted App - Krisztián Papp
 5. **[REST API](Assignments/A-HTTP-REST-API)** - (REST service/API) CANVASSSS a notebook or a python script - Dávid Visontai
 6. **[Network exploration](Assignments/A-Networks)** - HTML - István Márkusz
