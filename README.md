@@ -28,13 +28,13 @@ Each occasion starts with approximately a twenty minute of introduction into the
 3,  21.03.2023. **[Interactive Visualization](Lectures/L-Interactive_Visualization)** <br>
 4,  28.03.2023. **[REST services](Lectures/L-HTTP-REST-API)**  <br>
 5,  04.04.2023. **[SQL queries](Lectures/L-SQL)** <br>
-6,  11.04.2023. **[Datacleaning, and filtering](Lectures/L-Datacleaning-filtering)**<br>
+6,  11.04.2023. **Consultation** <br>
 7,  18.04.2023. **[Natural Language Processing on tweets](Lectures/L-NLP)** <br>
 8,  25.04.2023. **[Working with large datasets](Lectures/L-LargeData)** <br>
 9,  02.05.2023. **[Image exploration](Lectures/L-Image_Exploration)** <br>
-10, 09.05.2023. **[NoSQL Elasticsearch etc.](Lectures/L-NoSQL-ES** <br>
+10, 09.05.2023. **[NoSQL - Elasticsearch and Kibana, GraphQL](Lectures/L-NoSQL-ES)** <br>
 11, 16.05.2023. **[Network exploration](Lectures/L-Networks)** - An hour long lecture will be given by [**Dániel Ábel**](http://maven7.com/hu/daniel-abel/), who is a developer at Maven7. <br>
-12, 23.05.2023. **Consultation** <br>
+12, 23.05.2023. **[Datacleaning, and filtering](Lectures/L-Datacleaning-filtering)**<br>
  
 <!-- **[NoSQL - Elasticsearch and Kibana, GraphQL](Lectures/L-NoSQL-ES)** -->
 
