@@ -33,8 +33,8 @@ Each occasion starts with approximately a twenty minute of introduction into the
 8,  25.04.2023. **[Working with large datasets](Lectures/L-LargeData)** <br>
 9,  02.05.2023. **[Image exploration](Lectures/L-Image_Exploration)** <br>
 10, 09.05.2023. **[Network exploration](Lectures/L-Networks)** <br>
-11, 16.05.2023. **[NoSQL - Elasticsearch and Kibana, GraphQL](Lectures/L-NoSQL-ES)** <br>
-12, 23.05.2023. **[Datacleaning, and Filtering, Reproducibility](Lectures/L-Datacleaning-reproducibility)**<br>
+11, 16.05.2023. **[Datacleaning, and Filtering, Reproducibility](Lectures/L-Datacleaning-reproducibility)**<br>
+12, 23.05.2023. **[NoSQL - Elasticsearch and Kibana, GraphQL](Lectures/L-NoSQL-ES)** <br>
  
 <!-- **[NoSQL - Elasticsearch and Kibana, GraphQL](Lectures/L-NoSQL-ES)** -->
 
