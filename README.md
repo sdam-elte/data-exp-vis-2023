@@ -94,9 +94,9 @@ The final grades will be given according to the following point system:<br>
 
 ### Folder structure of the working environment
 
-* Assignments will be visible in `/v/courses/dataexpviz.assignments`
-* Example Datasets will be in the `/v/courses/dataexpviz.public/Datasets` directory you will find datasets, that you can work with.
-* Other lecture materials will be in `/v/courses/dataexpviz.public/<lecture_name>` and on this github page
+* Assignments will be visible in `/v/courses/dataesp2023.assignments`
+* Example Datasets will be in the `/v/courses/dataesp2023.public/Datasets` directory you will find datasets, that you can work with.
+* Other lecture materials will be in `/v/courses/dataesp2023.public/<lecture_name>` and on this github page
 
 ### Learning materials
 * Python tutorial: http://bokae.web.elte.hu/numerical_methods.html (translated from the BSc course "numerical methods in physics I" by Eszter Bokányi, work in progress )
