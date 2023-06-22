@@ -57,17 +57,17 @@ Each occasion starts with approximately a twenty minute of introduction into the
 
 ### Assignments, the expected output and the name of the corrector
 
-1. **[Following John Snow](Assignments/A-Shapes-Maps-Coordinates)**- HTML - Ágnes Becsei
+1. **[Following John Snow](Assignments/A-Shapes-Maps-Coordinates)**- HTML - Dávid Visontai
 2. **[USGS water discharge statistics](Assignments/A-Timeseries)** - HTML - Dávid Visontai
 3.
    * **a)** **[SQL queries on an NBA database](Assignments/A-SQL-A-Basketball)** NBA 2008-2009 season - HTML - Dávid Visontai
    * **b)** **[SQL queries to a Biological database](Assignments/A-SQL-B-Coveo)** Analysis of SARS-COV-2 mutation database - HTML - Dávid Visontai
   
-4. **[Interactive Visualization](Assignments/A-InteractiveVisualizations)** ATLO.info reproduction - HTML or Hosted App - Krisztián Papp
+4. **[Interactive Visualization](Assignments/A-InteractiveVisualizations)** ATLO.info reproduction - HTML or Hosted App - Csaba Kiss
 5. **[REST API](Assignments/A-HTTP-REST-API)** - (REST service/API) CANVASSSS a notebook or a python script - Dávid Visontai
-6. **[Network exploration](Assignments/A-Networks)** - HTML - István Márkusz
+6. **[Network exploration](Assignments/A-Networks)** - HTML - Csaba Kiss
 7. **[Data extraction from images](Assignments/A-Image_Exploration)** - HTML - József Stéger
-8. **[Natural Language Processing on tweets](Assignments/A-NLP)** NEEDS some redo- HTML - !!! Ex 7. and 8. is optional. - Eszter Bokányi
+8. **[Natural Language Processing on tweets](Assignments/A-NLP)** NEEDS some redo- HTML - !!! Ex 7. and 8. is optional. - Dávid Visontai
 
 All assigments should be converted into HTML unless it is stated otherwise!
 
